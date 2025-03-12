@@ -1,0 +1,18 @@
+[
+    {
+      "link": "about",
+      "name": "Kenntnisse"
+    },
+    {
+      "link": "technologies",
+      "name": "Ausbildung"
+    },
+    {
+      "link": "projects",
+      "name": "Projekte"
+    },
+    {
+      "link": "contact",
+      "name": "Kontakt"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+      "role": "Vollständiges Masterstudium in Java von Grund auf bis zum Experten 2023",
+      "organisation": "Udemy",
+      "startDate": "Feb, 2025",
+      "endDate": "Laufend",
+      "experiences": [
+        "Grundlagen der Programmierung mit Java: Datentypen, Kontrollstrukturen", 
+        "Objektorientierte Programmierung (OOP)"
+      ],
+      "imageSrc": "history/java.png"
+    },
+    {
+      "role": "The Complete Full-Stack Web Development Bootcamp",
+      "organisation": "Udemy",
+      "startDate": "Nov, 2024",
+      "endDate": "Mär, 2025",
+      "experiences": [
+        "HTML und CSS sowie Bootstrap: Strukturierung und Design von Webseiten", 
+        "JavaScript: Dynamische Programmierung und DOM-Manipulation", 
+        "Node.js und Express.js: Entwicklung auf der Serverseite", 
+        "Datenbanken: Verwendung von PostgreSQL"
+      ],
+      "imageSrc": "history/fullstack.png"
+    },
+    {
+      "role": "Ausbildung für IT-Programmierung",
+      "organisation": "Lineopole",
+      "startDate": "Okt, 2023",
+      "endDate": "Apr, 2024",
+      "experiences": [
+        "Grundlagen der Programmierung mit Pseudocode und Python",
+        "HTML und CSS sowie Bootstrap: Strukturierung und Design von Webseiten",
+        "JavaScript: Grundlagen der Programmierung"
+      ],
+      "imageSrc": "history/frontend.png"
+    }
+  ]

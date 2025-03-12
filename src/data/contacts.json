@@ -1,0 +1,20 @@
+[
+    {
+      "imageSrc": "emailIcon.png",
+      "alt": "Email icon",
+      "href": "mailto:chemlaljamal.job@gmail.com",
+      "name": "chemlaljamal.job@gmail.com"
+    },
+    {
+      "imageSrc": "linkedinIcon.png",
+      "alt": "LinkedIn icon",
+      "href": "https://www.linkedin.com/in/jamal-chemlal-097285219",
+      "name": "Jamal Chemlal"
+    },
+    {
+      "imageSrc": "githubIcon.png",
+      "alt": "Github icon",
+      "href": "https://github.com/JamalChemlalDEV",
+      "name": "JamalChemlalDEV"
+    }
+]

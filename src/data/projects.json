@@ -1,0 +1,50 @@
+[
+    {
+      "title": "WeatherNow",
+      "imageSrc": "projects/weatherNowImg.png",
+      "description": "Eine Wetteranwendung, die das aktuelle Wetter basierend auf einer eingegebenen Stadt oder dem aktuellen Standort des Nutzers anzeigt.",
+      "skills": ["EJS", "Express", "Node.js", "CSS", "OpenWeatherMap API"],
+      "demo": "https://weather-now-7x2i.onrender.com",
+      "source": "https://github.com/JamalChemlalDEV/weather-now"
+    },
+    {
+      "title": "Todolist",
+      "imageSrc": "projects/todolistImg.png",
+      "description": "Eine einfache App zur Verwaltung von Aufgaben und To-Do-Listen. Ermöglicht das Hinzufügen, Anzeigen, Löschen und Markieren von erledigten Aufgaben.",
+      "skills": ["React", "CSS"],
+      "demo": "https://to-do-list-jmch.netlify.app/",
+      "source": "https://github.com/JamalChemlalDEV/to-do-list"
+    },
+    {
+      "title": "Calculator",
+      "imageSrc": "projects/calculatorImg.png",
+      "description": "Eine Taschenrechner-App, die einfache Berechnungen wie Addition, Subtraktion, Multiplikation und Division ermöglicht.",
+      "skills": ["React", "CSS"],
+      "demo": "https://calculator-react-jm.netlify.app/",
+      "source": "https://github.com/JamalChemlalDEV/calculator"
+    },
+    {
+      "title": "Permalist",
+      "imageSrc": "projects/permalistImg.png",
+      "description": "Eine einfache Webanwendung, die es Nutzern ermöglicht, Aufgaben in einer Liste dauerhaft in einer Datenbank zu erstellen, zu bearbeiten und zu löschen.",
+      "skills": ["EJS", "Express", "Node.js", "PostgreSQL", "CSS"],
+      "demo": "",
+      "source": "https://github.com/JamalChemlalDEV/permanent-todolist"
+    },
+    {
+      "title": "Post Manager",
+      "imageSrc": "projects/blogImg.png",
+      "description": "Eine einfache Webanwendung, die es Nutzern ermöglicht, Blogbeiträge zu erstellen, zu bearbeiten und zu löschen.",
+      "skills": ["EJS", "Express", "Node.js", "CSS"],
+      "demo": "",
+      "source": "https://github.com/JamalChemlalDEV/post-manager"
+    },
+    {
+      "title": "Simon Game",
+      "imageSrc": "projects/simonDiceImg.png",
+      "description": "Ein einfaches Simon-Spiel, bei dem der Spieler einer Farbsequenz folgt und versucht, sie korrekt zu wiederholen.",
+      "skills": ["Javascript", "CSS", "HTML"],
+      "demo": "https://simon-dicee-game.netlify.app",
+      "source": "https://github.com/JamalChemlalDEV/simon-game"
+    }
+  ]

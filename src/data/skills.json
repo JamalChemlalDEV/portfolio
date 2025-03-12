@@ -1,0 +1,43 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "Javascript",
+      "imageSrc": "skills/javascript.png"
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "skills/bootstrap.png"
+    },
+    {
+      "title": "Git",
+      "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "Github",
+      "imageSrc": "skills/github.png"
+    },
+    {
+      "title": "jQuery",
+      "imageSrc": "skills/jquery.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "ExpressJs",
+      "imageSrc": "skills/express.png"
+    },
+    {
+      "title": "PostgreSQL",
+      "imageSrc": "skills/postgresql.png"
+    }
+    
+  ]

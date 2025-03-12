@@ -1,0 +1,20 @@
+[
+    {
+      "imageSrc": "cursorIcon.png",
+      "alt": "cursor icon",
+      "title": "Frontend",
+      "text": "Fundierte Kenntnisse in der Entwicklung von interaktiven Benutzeroberflächen mit HTML, CSS und JavaScript. Ich arbeite mit modernen Frameworks wie React und verwende State-Management und Hooks wie useState, um reaktive Anwendungen zu erstellen."
+    },
+    {
+      "imageSrc": "serverIcon.png",
+      "alt": "server icon",
+      "title": "Backend",
+      "text": "Kenntnisse in der Entwicklung von Backend-Anwendungen mit Express.js, der Nutzung öffentlicher APIs (z.B. Wetter-API) und der Implementierung von HTTP-Methoden wie POST, GET und DELETE zur Verwaltung von Daten in Anwendungen und Datenbanken wie PostgreSQL."
+    },
+    {
+      "imageSrc": "uiIcon.png",
+      "alt": "UI icon",
+      "title": "Design",
+      "text": "Kentnisse im Design von responsiven Benutzeroberflächen mit CSS und einfachen Animationen. Zudem nutze ich Bootstrap, um effizient ansprechende Benutzeroberflächen mit vorgefertigten Snippets zu gestalten."
+    }
+  ]
