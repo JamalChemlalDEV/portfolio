@@ -1,6 +1,6 @@
 import { getImageUrl } from '../../utils';
 import styles from './About.module.css';
-import { AboutItem } from './aboutItem';
+import { AboutItem } from './AboutItem';
 import aboutItems from "../../data/aboutItems.json";
 
 export const About = () => {
